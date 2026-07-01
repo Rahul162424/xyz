@@ -1,3 +1,4 @@
 # xyz
-this is my first repo
-Author - Rahul
+this is my first repo.
+<br>
+Author - Rahul Chakravati
